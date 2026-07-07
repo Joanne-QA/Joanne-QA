@@ -5,7 +5,6 @@
 🚀 Skills
 - 🔹 Manual Testing
 - 🔹 API Testing (Postman)
-- 🔹 BrowserStack
 - 🔹 Test Documentation
 - 🔹 Competitor Analysis
 - 🔹 Payment Testing
