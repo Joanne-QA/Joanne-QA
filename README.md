@@ -18,8 +18,8 @@
 - 🧪 Quality Assurance
 - 📖 Continuous Learning
 
-🤝 Let's Connect
-I'm always happy to learn, collaborate, and connect with other QA professionals!
+📫 Connect with Me
+💼 LinkedIn: https://www.linkedin.com/in/joanna-idowu-0091a2250/
 <!---
 Joanne-QA/Joanne-QA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
